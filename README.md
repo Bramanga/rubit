@@ -6,7 +6,7 @@ License: MIT - Do what you will, for science.
 
 ### Abstract
 
-Rubit is a bare bones, built from the ground up, overnight ruby html server. As of the righting of this README, it still needs to be able to terminate its requests properly.
+Rubit is a bare bones, built from the ground up, overnight ruby html server. As of the writing of this README, it still needs to be able to terminate its requests properly.
 
 ### Development Plan
 
